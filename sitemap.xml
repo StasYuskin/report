@@ -40,19 +40,25 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://c4u.org.ua/assets/t-shirts.jpg</loc>
+    <lastmod>2018-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://c4u.org.ua/assets/main.jpg</loc>
     <lastmod>2018-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://c4u.org.ua/assets/loader.gif</loc>
+    <loc>http://c4u.org.ua/assets/comics.jpg</loc>
     <lastmod>2018-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://c4u.org.ua/assets/t-shirts.jpg</loc>
+    <loc>http://c4u.org.ua/assets/loader.gif</loc>
     <lastmod>2018-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
