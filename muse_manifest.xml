@@ -1,8 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="c4u.org.ua" resolutions="1x" timestamp="1520132028542">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="c4u.org.ua" resolutions="1x" timestamp="1520266183910">
   <folder name="css">
-    <file name="site_global.css" crc="506959401"/>
-    <file name="index.css" crc="3815458688" ref="index"/>
-    <file name="nomq_index.css" crc="3964569575" ref="index"/>
+    <file name="site_global.css" crc="505868603"/>
+    <file name="index.css" crc="4246198503" ref="index"/>
+    <file name="nomq_index.css" crc="4232750270" ref="index"/>
+    <file name="report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program.css" crc="3996152589" ref="report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="nomq_report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program.css" crc="4139919621" ref="report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
   </folder>
   <folder name="assets">
     <file name="main.jpg" crc="470600683" seo="true" mt="1520127949000"/>
@@ -10,250 +12,299 @@
     <file name="t-shirts.jpg" crc="21315077" seo="true" mt="1520123692000"/>
     <file name="loader.gif" crc="97953810" seo="true" mt="1520129238000"/>
     <file name="comics.jpg" crc="4151570920" seo="true" mt="1520130243000"/>
+    <file name="broshchure.jpg" crc="207145741" seo="true" mt="1520254110000"/>
+    <file name="background.mp4" crc="3868166056" seo="true" mt="1520253902000"/>
+    <file name="background.jpg" crc="4275549799" seo="true" mt="1520254844000"/>
+    <file name="background_1.webm" crc="4168049353" seo="true" mt="1520255604000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="3803043152" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="4153641093" ref="index"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
-    <file name="webpro.js" crc="242022427" ref="index"/>
-    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
-    <file name="touchswipe.js" crc="4066113679" ref="index"/>
-    <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
-    <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
-    <file name="require.js" crc="4157109226" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="museutils.js" crc="3803043152" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="whatinput.js" crc="86476730" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="webpro.js" crc="242022427" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="require.js" crc="4157109226" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
   </folder>
   <folder name="images">
-    <file name="logo-r500.png" crc="4075339708" seo="true" ref="index">
+    <file name="logo-r500.png" crc="518446133" seo="true" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program" alt=""/>
+      <caption webpage="report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program" alt=""/>
+    </file>
+    <file name="malyn.jpg" crc="3933257461" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program" alt=""/>
+      <caption webpage="report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program" alt=""/>
+    </file>
+    <file name="conference-1.jpg" crc="4264977614" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program" alt=""/>
+      <caption webpage="report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program" alt=""/>
+      <caption webpage="report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program" alt=""/>
+    </file>
+    <file name="univercity-lecture-2-u5657-fr.png" crc="3822150706" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="open-lecture-1.jpg" crc="4165221670" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="malyn.jpg" crc="3933257461" ref="index">
+    <file name="roundtable-1.jpg" crc="497291241" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program">
       <caption webpage="index" alt=""/>
+      <caption webpage="report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program" alt=""/>
+    </file>
+    <file name="club-1.jpg" crc="454327490" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="conference-1.jpg" crc="4264977614" ref="index">
+    <file name="derl-1.jpg" crc="326598311" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program">
       <caption webpage="index" alt=""/>
+      <caption webpage="report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program" alt=""/>
+    </file>
+    <file name="film-luther-1.jpg" crc="4124478947" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program">
       <caption webpage="index" alt=""/>
+      <caption webpage="report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program" alt=""/>
+    </file>
+    <file name="imac-mockup-2.png" crc="476265306" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="univercity-lecture-2-u5657-fr.png" crc="3822150706" ref="index"/>
-    <file name="open-lecture-1.jpg" crc="4165221670" ref="index">
+    <file name="display-reflection.png" crc="381375446" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program" alt=""/>
+      <caption webpage="report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program" alt=""/>
+    </file>
+    <file name="display-reflection-u6271-fr.png" crc="3912262624" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="qr-c4u-fb-page.svg" crc="3988348608" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="qr-c4u-fb-page_poster_u12350.png" crc="281785744" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="facebook-group.svg" crc="3959886782" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="facebook-group_poster_u7299.png" crc="4154146063" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="qr-c4u-fb-group.svg" crc="499274538" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="qr-c4u-fb-group_poster_u12358.png" crc="383945338" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="mockup-display-04.jpg" crc="3958370475" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="roundtable-1.jpg" crc="497291241" ref="index">
+    <file name="qr-r500-fb.svg" crc="3924220159" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="qr-r500-fb_poster_u12334.png" crc="293591279" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="display-reflection-u8451-fr.png" crc="502173177" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="pack-map2.jpg" crc="4261557364" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="calendar-00001.jpg" crc="11509372" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program">
+      <caption webpage="index" alt=""/>
+      <caption webpage="report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program" alt=""/>
+    </file>
+    <file name="calendar-00005.jpg" crc="4125637441" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program">
+      <caption webpage="index" alt=""/>
+      <caption webpage="report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program" alt=""/>
+    </file>
+    <file name="calendar-00002.jpg" crc="3780992532" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program">
+      <caption webpage="index" alt=""/>
+      <caption webpage="report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program" alt=""/>
+    </file>
+    <file name="calendar-00007.jpg" crc="535571446" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program">
+      <caption webpage="index" alt=""/>
+      <caption webpage="report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program" alt=""/>
+    </file>
+    <file name="calendar-00012.jpg" crc="4127035345" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program">
+      <caption webpage="index" alt=""/>
+      <caption webpage="report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program" alt=""/>
+    </file>
+    <file name="calendar-00011.jpg" crc="302180598" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program">
+      <caption webpage="index" alt=""/>
+      <caption webpage="report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program" alt=""/>
+    </file>
+    <file name="calendar-00017.jpg" crc="3792781296" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program">
+      <caption webpage="index" alt=""/>
+      <caption webpage="report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program" alt=""/>
+    </file>
+    <file name="calendar-00021.jpg" crc="3991584889" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="calendar-00016.jpg" crc="3783186096" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program">
+      <caption webpage="index" alt=""/>
+      <caption webpage="report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program" alt=""/>
+    </file>
+    <file name="calendar-00023.jpg" crc="395691882" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="calendar-00015.jpg" crc="119530821" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program">
+      <caption webpage="index" alt=""/>
+      <caption webpage="report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program" alt=""/>
+    </file>
+    <file name="calendar-00006.jpg" crc="387794756" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program">
+      <caption webpage="index" alt=""/>
+      <caption webpage="report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program" alt=""/>
+    </file>
+    <file name="calendar-00014.jpg" crc="4215103313" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program">
+      <caption webpage="index" alt=""/>
+      <caption webpage="report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program" alt=""/>
+    </file>
+    <file name="calendar-00013.jpg" crc="3789407046" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program">
+      <caption webpage="index" alt=""/>
+      <caption webpage="report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program" alt=""/>
+    </file>
+    <file name="calendar-00009.jpg" crc="4083334826" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program">
+      <caption webpage="index" alt=""/>
+      <caption webpage="report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program" alt=""/>
+    </file>
+    <file name="calendar-00020.png" crc="4253971214" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program">
+      <caption webpage="index" alt=""/>
+      <caption webpage="report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program" alt=""/>
+    </file>
+    <file name="calendar-00008.jpg" crc="421942751" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program">
+      <caption webpage="index" alt=""/>
+      <caption webpage="report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program" alt=""/>
+    </file>
+    <file name="calendar-00003.jpg" crc="4031676271" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program">
+      <caption webpage="index" alt=""/>
+      <caption webpage="report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program" alt=""/>
+    </file>
+    <file name="calendar-00019.png" crc="49784900" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program">
+      <caption webpage="index" alt=""/>
+      <caption webpage="report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program" alt=""/>
+    </file>
+    <file name="calendar-00010.jpg" crc="3775311935" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program">
+      <caption webpage="index" alt=""/>
+      <caption webpage="report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program" alt=""/>
+    </file>
+    <file name="qr-r500-calendar-u9466-fr.png" crc="3829759950" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="thumbnail-1.jpg" crc="3829281762" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="club-1.jpg" crc="454327490" ref="index">
+    <file name="thumbnail-2.jpg" crc="132467766" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="derl-1.jpg" crc="326598311" ref="index">
+    <file name="thumbnail-4.jpg" crc="399585548" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="film-luther-1.jpg" crc="4124478947" ref="index">
+    <file name="thumbnail-3.jpg" crc="3796479504" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="imac-mockup-2.png" crc="476265306" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="display-reflection.png" crc="381375446" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="display-reflection-u6271-fr.png" crc="3912262624" ref="index"/>
-    <file name="qr-c4u-fb-page.svg" crc="3988348608" ref="index"/>
-    <file name="qr-c4u-fb-page_poster_u12350.png" crc="281785744" ref="index"/>
-    <file name="facebook-group.svg" crc="3959886782" ref="index"/>
-    <file name="facebook-group_poster_u7299.png" crc="4154146063" ref="index"/>
-    <file name="qr-c4u-fb-group.svg" crc="499274538" ref="index"/>
-    <file name="qr-c4u-fb-group_poster_u12358.png" crc="383945338" ref="index"/>
-    <file name="mockup-display-04.jpg" crc="3958370475" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="qr-r500-fb.svg" crc="3924220159" ref="index"/>
-    <file name="qr-r500-fb_poster_u12334.png" crc="293591279" ref="index"/>
-    <file name="display-reflection-u8451-fr.png" crc="502173177" ref="index"/>
-    <file name="pack-map2.jpg" crc="4261557364" ref="index"/>
-    <file name="calendar-00001.jpg" crc="11509372" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="calendar-00005.jpg" crc="4125637441" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="calendar-00002.jpg" crc="3780992532" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="calendar-00007.jpg" crc="535571446" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="calendar-00012.jpg" crc="4127035345" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="calendar-00011.jpg" crc="302180598" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="calendar-00017.jpg" crc="3792781296" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="calendar-00021.jpg" crc="3991584889" ref="index"/>
-    <file name="calendar-00016.jpg" crc="3783186096" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="calendar-00023.jpg" crc="395691882" ref="index"/>
-    <file name="calendar-00015.jpg" crc="119530821" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="calendar-00006.jpg" crc="387794756" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="calendar-00014.jpg" crc="4215103313" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="calendar-00013.jpg" crc="3789407046" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="calendar-00009.jpg" crc="4083334826" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="calendar-00020.png" crc="4253971214" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="calendar-00008.jpg" crc="421942751" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="calendar-00003.jpg" crc="4031676271" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="calendar-00019.png" crc="49784900" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="calendar-00010.jpg" crc="3775311935" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="qr-r500-calendar-u9466-fr.png" crc="3829759950" ref="index"/>
-    <file name="thumbnail-1.jpg" crc="3829281762" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="thumbnail-2.jpg" crc="132467766" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="thumbnail-4.jpg" crc="399585548" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="thumbnail-3.jpg" crc="3796479504" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="thumbnail-5-u10111-fr.jpg" crc="145374146" ref="index"/>
-    <file name="thumbnail-6-u9998-fr.jpg" crc="297887811" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="thumbnail-5-u10111-fr.jpg" crc="145374146" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="thumbnail-6-u9998-fr.jpg" crc="297887811" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="blank.gif" crc="4208392903" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
     <file name="u10001.png" crc="157119890" ref="index"/>
     <file name="u10001-r.png" crc="433570719" ref="index"/>
     <file name="u10001-m.png" crc="8804258" ref="index"/>
     <file name="u9989.png" crc="4093958662" ref="index"/>
     <file name="u9989-r.png" crc="3821528773" ref="index"/>
     <file name="u9989-m.png" crc="275924957" ref="index"/>
-    <file name="qr-talkshows-u11912-fr.png" crc="3995738440" ref="index"/>
-    <file name="tolk-show-1.jpg" crc="189338547" ref="index">
+    <file name="qr-talkshows-u11912-fr.png" crc="3995738440" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="tolk-show-1.jpg" crc="189338547" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program">
+      <caption webpage="index" alt=""/>
+      <caption webpage="report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program" alt=""/>
+    </file>
+    <file name="qr-c4u-infographics-u12784-fr.png" crc="3901003522" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="qr-c4u-statti-u12454-fr.png" crc="448319027" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="qr-c4u-quotes-u12975-fr.png" crc="3865350398" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="quotes.jpg" crc="4241955459" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="qr-c4u-infographics-u12784-fr.png" crc="3901003522" ref="index"/>
-    <file name="qr-c4u-statti-u12454-fr.png" crc="448319027" ref="index"/>
-    <file name="qr-c4u-quotes-u12975-fr.png" crc="3865350398" ref="index"/>
-    <file name="quotes.jpg" crc="4241955459" ref="index">
+    <file name="posts.jpg" crc="279223260" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program" alt=""/>
+      <caption webpage="report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program" alt=""/>
+    </file>
+    <file name="cv-video-3.jpg" crc="3882494010" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="posts.jpg" crc="279223260" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="cv-video-3.jpg" crc="3882494010" ref="index">
+    <file name="cv-video-6.jpg" crc="390052391" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="cv-video-6.jpg" crc="390052391" ref="index">
+    <file name="cv-video-1.jpg" crc="314595904" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="cv-video-1.jpg" crc="314595904" ref="index">
+    <file name="cv-video-2.jpg" crc="126003284" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="cv-video-2.jpg" crc="126003284" ref="index">
+    <file name="cv-video-5.jpg" crc="238323679" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="cv-video-5.jpg" crc="238323679" ref="index">
+    <file name="cv-video-4.jpg" crc="4008841564" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="cv-video-4.jpg" crc="4008841564" ref="index">
+    <file name="mockupt-transperent-tablet.png" crc="4056546217" seo="true" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program" alt=""/>
+      <caption webpage="report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program" alt=""/>
     </file>
-    <file name="mockupt-transperent-tablet.png" crc="4056546217" seo="true" ref="index">
+    <file name="display-reflection-u13693-fr.png" crc="3938916687" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="school-ref-1.jpg" crc="3984679461" seo="true" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program" alt=""/>
+      <caption webpage="report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program" alt=""/>
     </file>
-    <file name="display-reflection-u13693-fr.png" crc="3938916687" ref="index"/>
-    <file name="school-ref-1.jpg" crc="3984679461" seo="true" ref="index">
+    <file name="school-ref-2.jpg" crc="4200883207" seo="true" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program" alt=""/>
+      <caption webpage="report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program" alt=""/>
     </file>
-    <file name="school-ref-2.jpg" crc="4200883207" seo="true" ref="index">
+    <file name="school-ref-3.jpg" crc="76634229" seo="true" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program" alt=""/>
+      <caption webpage="report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program" alt=""/>
     </file>
-    <file name="school-ref-3.jpg" crc="76634229" seo="true" ref="index">
+    <file name="school-ref-4.jpg" crc="351847747" seo="true" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program" alt=""/>
+      <caption webpage="report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program" alt=""/>
     </file>
-    <file name="school-ref-4.jpg" crc="351847747" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
     <file name="u14560-4.png" crc="3875858307" ref="index"/>
-    <file name="t-shirt-single.png" crc="4138639531" ref="index">
+    <file name="t-shirt-single.png" crc="4138639531" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program">
+      <caption webpage="index" alt=""/>
+      <caption webpage="report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program" alt=""/>
+    </file>
+    <file name="sign-6.jpg" crc="467810072" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="sign-6.jpg" crc="467810072" ref="index">
+    <file name="infographics.png" crc="4211811365" seo="true" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program">
       <caption webpage="index" alt=""/>
+      <caption webpage="report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program" alt=""/>
     </file>
-    <file name="infographics.png" crc="4211811365" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="tolk-show-1-u11836-fr.jpg" crc="142685782" ref="index"/>
-    <file name="univercity-lecture-2-u5657-fr.jpg" crc="4284582559" ref="index"/>
-    <file name="display-reflection-u6271-fr2.png" crc="340388090" ref="index"/>
-    <file name="roundtable-1-u4532-fr.jpg" crc="3932565643" ref="index"/>
-    <file name="derl-1-u4619-fr.jpg" crc="4264951287" ref="index"/>
-    <file name="film-luther-1-u4694-fr.jpg" crc="30361569" ref="index"/>
-    <file name="open-lecture-1-u4569-fr.jpg" crc="99241069" ref="index"/>
-    <file name="conference-1-u2051-fr.jpg" crc="4264405555" ref="index"/>
-    <file name="display-reflection-u8451-fr2.png" crc="493124565" ref="index"/>
-    <file name="pack-map2-u8846-fr.jpg" crc="3788221352" ref="index"/>
-    <file name="calendar-00017-u8971-fr.jpg" crc="407914333" ref="index"/>
-    <file name="calendar-00013-u9043-fr.jpg" crc="213702822" ref="index"/>
-    <file name="calendar-00001-u8868-fr.jpg" crc="3845011388" ref="index"/>
-    <file name="calendar-00021-u8966-fr.jpg" crc="3852503005" ref="index"/>
-    <file name="calendar-00009-u9038-fr.jpg" crc="4156051634" ref="index"/>
-    <file name="calendar-00005-u8874-fr.jpg" crc="354194390" ref="index"/>
-    <file name="calendar-00016-u8961-fr.jpg" crc="3780893661" ref="index"/>
-    <file name="calendar-00020-u9033-fr.png" crc="4202196406" ref="index"/>
-    <file name="calendar-00002-u8880-fr.jpg" crc="73280850" ref="index"/>
-    <file name="calendar-00023-u8956-fr.jpg" crc="4125181747" ref="index"/>
-    <file name="calendar-00008-u9028-fr.jpg" crc="13073947" ref="index"/>
-    <file name="calendar-00007-u8886-fr.jpg" crc="4209662785" ref="index"/>
-    <file name="calendar-00015-u8951-fr.jpg" crc="228287038" ref="index"/>
-    <file name="calendar-00003-u9023-fr.jpg" crc="4050842122" ref="index"/>
-    <file name="calendar-00012-u8892-fr.jpg" crc="300384428" ref="index"/>
-    <file name="calendar-00006-u8946-fr.jpg" crc="3807669317" ref="index"/>
-    <file name="calendar-00019-u9018-fr.png" crc="3881374692" ref="index"/>
-    <file name="calendar-00011-u8898-fr.jpg" crc="4040444877" ref="index"/>
-    <file name="calendar-00014-u8940-fr.jpg" crc="349822865" ref="index"/>
-    <file name="calendar-00010-u9012-fr.jpg" crc="208809247" ref="index"/>
+    <file name="tolk-show-1-u11836-fr.jpg" crc="142685782" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="univercity-lecture-2-u5657-fr.jpg" crc="4284582559" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="display-reflection-u6271-fr2.png" crc="340388090" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="roundtable-1-u4532-fr.jpg" crc="3932565643" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="derl-1-u4619-fr.jpg" crc="4264951287" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="film-luther-1-u4694-fr.jpg" crc="30361569" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="open-lecture-1-u4569-fr.jpg" crc="99241069" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="conference-1-u2051-fr.jpg" crc="4264405555" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="display-reflection-u8451-fr2.png" crc="493124565" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="pack-map2-u8846-fr.jpg" crc="3788221352" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="calendar-00017-u8971-fr.jpg" crc="407914333" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="calendar-00013-u9043-fr.jpg" crc="213702822" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="calendar-00001-u8868-fr.jpg" crc="3845011388" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="calendar-00021-u8966-fr.jpg" crc="3852503005" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="calendar-00009-u9038-fr.jpg" crc="4156051634" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="calendar-00005-u8874-fr.jpg" crc="354194390" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="calendar-00016-u8961-fr.jpg" crc="3780893661" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="calendar-00020-u9033-fr.png" crc="4202196406" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="calendar-00002-u8880-fr.jpg" crc="73280850" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="calendar-00023-u8956-fr.jpg" crc="4125181747" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="calendar-00008-u9028-fr.jpg" crc="13073947" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="calendar-00007-u8886-fr.jpg" crc="4209662785" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="calendar-00015-u8951-fr.jpg" crc="228287038" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="calendar-00003-u9023-fr.jpg" crc="4050842122" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="calendar-00012-u8892-fr.jpg" crc="300384428" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="calendar-00006-u8946-fr.jpg" crc="3807669317" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="calendar-00019-u9018-fr.png" crc="3881374692" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="calendar-00011-u8898-fr.jpg" crc="4040444877" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="calendar-00014-u8940-fr.jpg" crc="349822865" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="calendar-00010-u9012-fr.jpg" crc="208809247" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
     <file name="qr-r500-calendar-u9466.png" crc="432128085" ref="index"/>
-    <file name="thumbnail-5.jpg" crc="3980709573" ref="index">
+    <file name="thumbnail-5.jpg" crc="3980709573" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="thumbnail-6.jpg" crc="310785096" ref="index">
+    <file name="thumbnail-6.jpg" crc="310785096" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u100012.png" crc="4098268674" ref="index"/>
@@ -262,27 +313,56 @@
     <file name="u99892.png" crc="298703117" ref="index"/>
     <file name="u9989-r2.png" crc="3794228101" ref="index"/>
     <file name="u9989-m2.png" crc="3814468986" ref="index"/>
-    <file name="qr-talkshows-u11912-fr2.png" crc="194465073" ref="index"/>
-    <file name="qr-c4u-statti-u12454-fr2.png" crc="3775720766" ref="index"/>
-    <file name="qr-c4u-infographics-u12784-fr2.png" crc="4278985895" ref="index"/>
-    <file name="qr-c4u-quotes-u12975-fr2.png" crc="3781545182" ref="index"/>
+    <file name="qr-talkshows-u11912-fr2.png" crc="194465073" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="qr-c4u-statti-u12454-fr2.png" crc="3775720766" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="qr-c4u-infographics-u12784-fr2.png" crc="4278985895" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="qr-c4u-quotes-u12975-fr2.png" crc="3781545182" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
     <file name="infographics320x180.png" crc="4148985091" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="quotes-u12951-fr.jpg" crc="519393060" ref="index"/>
-    <file name="cv-video-3-u13177-fr.jpg" crc="3836526407" ref="index"/>
-    <file name="cv-video-2-u13255-fr.jpg" crc="327920241" ref="index"/>
-    <file name="cv-video-6-u13189-fr.jpg" crc="3932457998" ref="index"/>
-    <file name="cv-video-5-u13261-fr.jpg" crc="4064103251" ref="index"/>
+    <file name="quotes-u12951-fr.jpg" crc="519393060" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="cv-video-3-u13177-fr.jpg" crc="3836526407" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="cv-video-2-u13255-fr.jpg" crc="327920241" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="cv-video-6-u13189-fr.jpg" crc="3932457998" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="cv-video-5-u13261-fr.jpg" crc="4064103251" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
     <file name="mockupt-transperent-tablet188x145.png" crc="124704599" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="cv-video-1-u13201-fr.jpg" crc="3850670695" ref="index"/>
-    <file name="cv-video-4-u13266-fr.jpg" crc="4229723963" ref="index"/>
+    <file name="cv-video-1-u13201-fr.jpg" crc="3850670695" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="cv-video-4-u13266-fr.jpg" crc="4229723963" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
     <file name="u14560-42.png" crc="4070723030" ref="index"/>
-    <file name="t-shirt-single-u14787-fr.png" crc="4247801930" ref="index"/>
-    <file name="sign-6-u14873-fr.jpg" crc="3895375240" ref="index"/>
+    <file name="t-shirt-single-u14787-fr.png" crc="4247801930" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="sign-6-u14873-fr.jpg" crc="3895375240" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="eer-logo.png" crc="6080137" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program">
+      <caption webpage="index" alt=""/>
+      <caption webpage="report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program" alt=""/>
+    </file>
+    <file name="c4u-logo.png" crc="486591408" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program">
+      <caption webpage="index" alt=""/>
+      <caption webpage="report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program" alt=""/>
+    </file>
+    <file name="statti-1.jpg" crc="278722244" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="c4u-logo-u18188-fr.png" crc="4216236207" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="eer-logo-u18206-fr.png" crc="96316172" ref="index:report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="u18400.png" crc="157119890" ref="report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="u18400-r.png" crc="433570719" ref="report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="u18400-m.png" crc="8804258" ref="report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="u18422.png" crc="4093958662" ref="report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="u18422-r.png" crc="3821528773" ref="report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="u18422-m.png" crc="275924957" ref="report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="u18261-4.png" crc="3875858307" ref="report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="qr-r500-calendar-u18381.png" crc="432128085" ref="report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="u184002.png" crc="4098268674" ref="report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="u18400-r2.png" crc="494810529" ref="report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="u18400-m2.png" crc="4040895028" ref="report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="u184222.png" crc="298703117" ref="report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="u18422-r2.png" crc="3794228101" ref="report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="u18422-m2.png" crc="3814468986" ref="report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
+    <file name="u18261-42.png" crc="4070723030" ref="report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program"/>
   </folder>
-  <file name="index.html" crc="325051906" seo="true" mt="1520130370840" redirect="true"/>
+  <file name="index.html" crc="3947157250" seo="true" mt="1520266119648" redirect="true"/>
+  <file name="report-on-the-activities-of-eastern-european-reformation-ministryas-a-part-of-r500-program.html" crc="221645188" seo="true" mt="1520266107854" redirect="true"/>
 </manifest>
