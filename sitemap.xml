@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://c4u.org.ua/index.html</loc>
-    <lastmod>2018-03-05</lastmod>
+    <lastmod>2018-03-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://c4u.org.ua/images/logo-r500.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://c4u.org.ua/images/mockupt-transperent-tablet.png</image:loc>
+      <image:loc>http://c4u.org.ua/images/img-mockup-display-03.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://c4u.org.ua/images/school-ref-1.jpg</image:loc>
@@ -24,25 +24,25 @@
       <image:loc>http://c4u.org.ua/images/school-ref-4.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://c4u.org.ua/images/infographics.png</image:loc>
+      <image:loc>http://c4u.org.ua/images/img-infographics-01.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://c4u.org.ua/images/infographics320x180.png</image:loc>
+      <image:loc>http://c4u.org.ua/images/img-infographics-01320x180.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://c4u.org.ua/images/mockupt-transperent-tablet188x145.png</image:loc>
+      <image:loc>http://c4u.org.ua/images/img-mockup-display-03188x145.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://c4u.org.ua/report-on-the-activities-of-eastern-european-reformation-ministry-as-a-part-of-r500-program.html</loc>
-    <lastmod>2018-03-05</lastmod>
+    <loc>http://c4u.org.ua/english.html</loc>
+    <lastmod>2018-03-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://c4u.org.ua/images/logo-r500.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://c4u.org.ua/images/mockupt-transperent-tablet.png</image:loc>
+      <image:loc>http://c4u.org.ua/images/img-mockup-display-03.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://c4u.org.ua/images/school-ref-1.jpg</image:loc>
@@ -57,36 +57,30 @@
       <image:loc>http://c4u.org.ua/images/school-ref-4.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://c4u.org.ua/images/infographics.png</image:loc>
+      <image:loc>http://c4u.org.ua/images/img-infographics-01.jpg</image:loc>
     </image:image>
+  </url>
+  <url>
+    <loc>http://c4u.org.ua/assets/main.jpg</loc>
+    <lastmod>2018-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://c4u.org.ua/assets/img-broshchure-01.jpg</loc>
+    <lastmod>2018-03-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://c4u.org.ua/assets/img-comics-01.jpg</loc>
+    <lastmod>2018-03-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>http://c4u.org.ua/assets/parallax.js</loc>
     <lastmod>2017-10-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://c4u.org.ua/assets/loader.gif</loc>
-    <lastmod>2018-03-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://c4u.org.ua/assets/t-shirts.jpg</loc>
-    <lastmod>2018-03-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://c4u.org.ua/assets/comics.jpg</loc>
-    <lastmod>2018-03-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://c4u.org.ua/assets/background.mp4</loc>
-    <lastmod>2018-03-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -97,20 +91,32 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://c4u.org.ua/assets/background_1.webm</loc>
-    <lastmod>2018-03-05</lastmod>
+    <loc>http://c4u.org.ua/assets/img-ideas-01.jpg</loc>
+    <lastmod>2018-03-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://c4u.org.ua/assets/main.jpg</loc>
-    <lastmod>2018-03-04</lastmod>
+    <loc>http://c4u.org.ua/assets/background-720.webm</loc>
+    <lastmod>2018-03-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://c4u.org.ua/assets/broshchure.jpg</loc>
-    <lastmod>2018-03-05</lastmod>
+    <loc>http://c4u.org.ua/assets/background-720.mp4</loc>
+    <lastmod>2018-03-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://c4u.org.ua/assets/loader.gif</loc>
+    <lastmod>2018-03-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://c4u.org.ua/assets/img-tshirts-02.jpg</loc>
+    <lastmod>2018-03-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
