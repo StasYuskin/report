@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://c4u.org.ua/index.html</loc>
-    <lastmod>2018-03-07</lastmod>
+    <lastmod>2018-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -35,7 +35,7 @@
   </url>
   <url>
     <loc>http://c4u.org.ua/english.html</loc>
-    <lastmod>2018-03-07</lastmod>
+    <lastmod>2018-03-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -61,13 +61,13 @@
     </image:image>
   </url>
   <url>
-    <loc>http://c4u.org.ua/assets/main.jpg</loc>
-    <lastmod>2018-03-04</lastmod>
+    <loc>http://c4u.org.ua/assets/parallax.js</loc>
+    <lastmod>2017-10-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://c4u.org.ua/assets/img-broshchure-01.jpg</loc>
+    <loc>http://c4u.org.ua/assets/background.jpg</loc>
     <lastmod>2018-03-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -79,14 +79,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://c4u.org.ua/assets/parallax.js</loc>
-    <lastmod>2017-10-09</lastmod>
+    <loc>http://c4u.org.ua/assets/img-broshchure-01.jpg</loc>
+    <lastmod>2018-03-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://c4u.org.ua/assets/background.jpg</loc>
-    <lastmod>2018-03-05</lastmod>
+    <loc>http://c4u.org.ua/assets/loader.gif</loc>
+    <lastmod>2018-03-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -109,8 +109,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://c4u.org.ua/assets/loader.gif</loc>
-    <lastmod>2018-03-07</lastmod>
+    <loc>http://c4u.org.ua/assets/img-infographics-03.jpg</loc>
+    <lastmod>2018-03-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://c4u.org.ua/assets/main.jpg</loc>
+    <lastmod>2018-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="c4u.org.ua" resolutions="1x" timestamp="1520456506511">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="c4u.org.ua" resolutions="1x" timestamp="1520710718749">
   <folder name="css">
-    <file name="site_global.css" crc="509131637"/>
-    <file name="english.css" crc="3930021374" ref="english"/>
-    <file name="nomq_english.css" crc="3859445956" ref="english"/>
-    <file name="index.css" crc="19322673" ref="index"/>
-    <file name="nomq_index.css" crc="277698143" ref="index"/>
+    <file name="site_global.css" crc="324087637"/>
+    <file name="index.css" crc="3968566971" ref="index"/>
+    <file name="nomq_index.css" crc="197886996" ref="index"/>
+    <file name="english.css" crc="3965680642" ref="english"/>
+    <file name="nomq_english.css" crc="38577922" ref="english"/>
   </folder>
   <folder name="assets">
     <file name="main.jpg" crc="470600683" seo="true" mt="1520127949000"/>
@@ -17,6 +17,7 @@
     <file name="img-ideas-01.jpg" crc="152202007" seo="true" mt="1520435120000"/>
     <file name="background-720.webm" crc="420132685" seo="true" mt="1520455922000"/>
     <file name="background-720.mp4" crc="4155005895" seo="true" mt="1520456087000"/>
+    <file name="img-infographics-03.jpg" crc="3946251934" seo="true" mt="1520706749000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:english"/>
@@ -48,14 +49,14 @@
       <caption webpage="index" alt=""/>
       <caption webpage="english" alt=""/>
     </file>
-    <file name="img-malyn-01.jpg" crc="4269338261" ref="index:english">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="img-conference-01.jpg" crc="4090328866" ref="index:english">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="english" alt=""/>
       <caption webpage="english" alt=""/>
+    </file>
+    <file name="img-malyn-01.jpg" crc="4269338261" ref="index:english">
+      <caption webpage="index" alt=""/>
     </file>
     <file name="img-lecture-02-u5657-fr.png" crc="3838303138" ref="index:english"/>
     <file name="img-lecture-01.jpg" crc="134268915" ref="index:english">
@@ -189,7 +190,7 @@
       <caption webpage="english" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="index:english"/>
-    <file name="u14560-4.png" crc="3875858307" ref="index"/>
+    <file name="img-bookcover-01-u20466.png" crc="434549350" ref="index"/>
     <file name="img-tshirts-01.png" crc="403013315" ref="index:english">
       <caption webpage="index" alt=""/>
       <caption webpage="english" alt=""/>
@@ -204,8 +205,8 @@
     <file name="img-talkshow-01-u11836-fr.jpg" crc="240505653" ref="index:english"/>
     <file name="img-display-reflection-u6271-fr2.png" crc="340388090" ref="index:english"/>
     <file name="img-lecture-02-u5657-fr.jpg" crc="142091843" ref="index:english"/>
-    <file name="img-conference-01-u2051-fr.jpg" crc="3971397266" ref="index"/>
-    <file name="img-display-reflection-u8451-fr2.png" crc="493124565" ref="index"/>
+    <file name="img-conference-01-u2051-fr.jpg" crc="3971397266" ref="index:english"/>
+    <file name="img-display-reflection-u8451-fr2.png" crc="493124565" ref="index:english"/>
     <file name="qr-r500-calendar-u9466.png" crc="432128085" ref="index"/>
     <file name="thumbnail-5.jpg" crc="3980709573" ref="index:english">
       <caption webpage="index" alt=""/>
@@ -230,27 +231,27 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u14560-42.png" crc="4070723030" ref="index"/>
     <file name="img-tshirts-01-u14787-fr.png" crc="12981048" ref="index:english"/>
     <file name="img-infographics-02-u14873-fr.jpg" crc="3797035786" ref="index:english"/>
     <file name="logo-c4u-u18188-fr.png" crc="4216236207" ref="index:english"/>
     <file name="logo-eer-u18206-fr.png" crc="96316172" ref="index:english"/>
-    <file name="u18400.png" crc="157119890" ref="english"/>
-    <file name="u18400-r.png" crc="433570719" ref="english"/>
-    <file name="u18400-m.png" crc="8804258" ref="english"/>
-    <file name="u18422.png" crc="4093958662" ref="english"/>
-    <file name="u18422-r.png" crc="3821528773" ref="english"/>
-    <file name="u18422-m.png" crc="275924957" ref="english"/>
-    <file name="u18261-4.png" crc="3875858307" ref="english"/>
-    <file name="qr-r500-calendar-u18381.png" crc="432128085" ref="english"/>
-    <file name="u184002.png" crc="4098268674" ref="english"/>
-    <file name="u18400-r2.png" crc="494810529" ref="english"/>
-    <file name="u18400-m2.png" crc="4040895028" ref="english"/>
-    <file name="u184222.png" crc="298703117" ref="english"/>
-    <file name="u18422-r2.png" crc="3794228101" ref="english"/>
-    <file name="u18422-m2.png" crc="3814468986" ref="english"/>
-    <file name="u18261-42.png" crc="4070723030" ref="english"/>
+    <file name="img-bookcover-01-u204662.png" crc="434549350" ref="index"/>
+    <file name="u21241.png" crc="157119890" ref="english"/>
+    <file name="u21241-r.png" crc="433570719" ref="english"/>
+    <file name="u21241-m.png" crc="8804258" ref="english"/>
+    <file name="u21217.png" crc="4093958662" ref="english"/>
+    <file name="u21217-r.png" crc="3821528773" ref="english"/>
+    <file name="u21217-m.png" crc="275924957" ref="english"/>
+    <file name="img-bookcover-01-u21125.png" crc="434549350" ref="english"/>
+    <file name="qr-r500-calendar-u21303.png" crc="432128085" ref="english"/>
+    <file name="u212412.png" crc="4098268674" ref="english"/>
+    <file name="u21241-r2.png" crc="494810529" ref="english"/>
+    <file name="u21241-m2.png" crc="4040895028" ref="english"/>
+    <file name="u212172.png" crc="298703117" ref="english"/>
+    <file name="u21217-r2.png" crc="3794228101" ref="english"/>
+    <file name="u21217-m2.png" crc="3814468986" ref="english"/>
+    <file name="img-bookcover-01-u211252.png" crc="434549350" ref="english"/>
   </folder>
-  <file name="index.html" crc="3970522837" seo="true" mt="1520456206516" redirect="true"/>
-  <file name="english.html" crc="3856740138" seo="true" mt="1520456172621" redirect="true"/>
+  <file name="index.html" crc="418420681" seo="true" mt="1520710650588" redirect="true"/>
+  <file name="english.html" crc="442341917" seo="true" mt="1520710633401" redirect="true"/>
 </manifest>
