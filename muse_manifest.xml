@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="c4u.org.ua" resolutions="1x" timestamp="1520712786826">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="c4u.org.ua" resolutions="1x" timestamp="1520880264887">
   <folder name="css">
-    <file name="site_global.css" crc="324087637"/>
-    <file name="index.css" crc="3968566971" ref="index"/>
-    <file name="nomq_index.css" crc="197886996" ref="index"/>
-    <file name="english.css" crc="191510133" ref="english"/>
-    <file name="nomq_english.css" crc="99132375" ref="english"/>
+    <file name="site_global.css" crc="509131637"/>
+    <file name="index.css" crc="251491153" ref="index"/>
+    <file name="nomq_index.css" crc="120586758" ref="index"/>
+    <file name="english.css" crc="255311447" ref="english"/>
+    <file name="nomq_english.css" crc="3866265879" ref="english"/>
   </folder>
   <folder name="assets">
     <file name="main.jpg" crc="470600683" seo="true" mt="1520127949000"/>
@@ -252,6 +252,6 @@
     <file name="u21217-m2.png" crc="3814468986" ref="english"/>
     <file name="img-bookcover-01-u211252.png" crc="434549350" ref="english"/>
   </folder>
-  <file name="index.html" crc="3966590287" seo="true" mt="1520712725682" redirect="true"/>
-  <file name="english.html" crc="446297977" seo="true" mt="1520712707844" redirect="true"/>
+  <file name="index.html" crc="216818066" seo="true" mt="1520878697440" redirect="true"/>
+  <file name="english.html" crc="217564" seo="true" mt="1520877819403" redirect="true"/>
 </manifest>
